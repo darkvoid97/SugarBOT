@@ -92,6 +92,9 @@ pytest test_project.py
     ├── general.py          # /ping, /avatar, /purge, and /meme commands
     └── voice.py
 ```
+## Author & License
+
+MIT **© Giuseppe Tansella**
 <br><hr>
 
 - ### [CS50 Python Problem Sets solutions](https://github.com/darkvoid97/CS50P)
